@@ -10,31 +10,31 @@
 	<string>iOSF2MidTermClassRoster</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>45491F4BAF8E5D39FF437F3806CBB4C3A4F08007</key>
-		<string>https://github.com/dakoch/iOSFoundation2.git</string>
+		<key>0AEE4DD0C668225F3E35F4C404FD95704265BDBB</key>
+		<string>https://github.com/dakoch/iOSFoundationII-master.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>iOSFoundation2Homework/iOSF2MidTermClassRoster/iOSF2MidTermClassRoster.xcodeproj</string>
+	<string>iOSF2MidTermClassRoster.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>45491F4BAF8E5D39FF437F3806CBB4C3A4F08007</key>
-		<string>../../../..</string>
+		<key>0AEE4DD0C668225F3E35F4C404FD95704265BDBB</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/dakoch/iOSFoundation2.git</string>
+	<string>https://github.com/dakoch/iOSFoundationII-master.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>45491F4BAF8E5D39FF437F3806CBB4C3A4F08007</string>
+	<string>0AEE4DD0C668225F3E35F4C404FD95704265BDBB</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>45491F4BAF8E5D39FF437F3806CBB4C3A4F08007</string>
+			<string>0AEE4DD0C668225F3E35F4C404FD95704265BDBB</string>
 			<key>IDESourceControlWCCName</key>
-			<string>iOSFoundation2</string>
+			<string>iOSFoundationII-master</string>
 		</dict>
 	</array>
 </dict>
